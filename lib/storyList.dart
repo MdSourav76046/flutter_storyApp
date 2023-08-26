@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 List<String> allStory = [
   "Hello guys, myself majid Bhuiya, Hazaro meyeder crush. If You love me then call me. LOve yaa, ummah",
-  "Ami jani tmi k tmi jano ami k, cholo giye moja kori. come on baby.",
+  "Mia bibi raji, keya karega kaji",
 ];
 
 List<String> allTitle = [
