@@ -98,7 +98,7 @@ class StoryViewerScreen extends StatelessWidget {
   final TextEditingController textEditingController = TextEditingController();
   speak(String text) async {
     await flutterTts.setLanguage("en-US");
-    await flutterTts.setPitch(0.9);
+    await flutterTts.setPitch(0.5);
     await flutterTts.speak(text);
   }
 

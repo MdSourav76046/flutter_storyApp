@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 
 List<String> allStory = [
-  "Hello guys, myself majid Bhuiya, Hazaro meyeder crush. If You love me then call me. LOve yaa, ummah",
+  "Hello guys, myself majid Bhuiya, Hazaro meyeder crush",
   "Mia bibi raji, keya karega kaji",
 ];
 
@@ -15,5 +15,5 @@ List<String> allTitle = [
 
 List<String> allImageLink = [
   "assets/majid.jpeg",
-  "assets/ami_tmi.jpg",
+  "assets/majid.jpeg",
 ];
